@@ -1,0 +1,18 @@
+{
+  "extraction_timestamp": "2025-07-27T08:42:56.051781",
+  "results": {
+    "extracted_data": {
+      "name": "michael james thompson",
+      "email": "michael.thompson@email.com",
+      "phone": "555-123-4567",
+      "address": "123 oak street",
+      "income": "95000",
+      "employment": "techcorp as a software engineer",
+      "risk_tolerance": "moderate"
+    },
+    "completion_percentage": 87.5,
+    "total_fields": 8,
+    "filled_fields": 7,
+    "client_text": "Michael Thompson My name is Michael James Thompson. I was born on June 12th, 1985. Sure, it's 555-123-4567. It's michael.thompson@email.com. I live at 123 Oak Street, Springfield, IL 62701. I'm married and have two children. I work at TechCorp as a software engineer. I've been there for about 8 years now. I make around $95,000 per year. I'd say it's probably around $350,000 including my house and retirement accounts. I'm primarily focused on growth for my retirement. I want to build wealth for the long term. I'd say I'm moderate. I don't want to lose everything, but I'm willing to take some risk for better returns. Yes, I've been investing in my 401k and some index funds for about 10 years now. I'm hoping to retire in about 25 years, so around age 62. We might need some money for our kids' college in about 10-15 years, but other than that, no major expenses. I think we covered the main points. I'm just looking for help to make sure I'm on track for a comfortable retirement. Thank you, Sarah. I look forward to hearing your recommendations."
+  }
+}

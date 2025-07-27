@@ -1,0 +1,68 @@
+Financial Advisor Meeting Transcript
+Date: March 15, 2024
+Advisor: Sarah Johnson
+Client: Michael Thompson
+
+Advisor: Good morning, Michael. Thank you for coming in today. Let's start by getting some basic information from you. What is your full name?
+
+Client: My name is Michael James Thompson.
+
+Advisor: Great, and what's your date of birth?
+
+Client: I was born on June 12th, 1985.
+
+Advisor: Perfect. Can you provide me with your phone number?
+
+Client: Sure, it's 555-123-4567.
+
+Advisor: And your email address?
+
+Client: It's michael.thompson@email.com.
+
+Advisor: What's your current address?
+
+Client: I live at 123 Oak Street, Springfield, IL 62701.
+
+Advisor: Are you married, single, or in another relationship status?
+
+Client: I'm married and have two children.
+
+Advisor: Could you tell me about your current employment situation?
+
+Client: I work at TechCorp as a software engineer. I've been there for about 8 years now.
+
+Advisor: What's your approximate annual income?
+
+Client: I make around $95,000 per year.
+
+Advisor: Do you have an estimate of your net worth?
+
+Client: I'd say it's probably around $350,000 including my house and retirement accounts.
+
+Advisor: Now let's talk about your investment goals. What are you looking to achieve with your investments?
+
+Client: I'm primarily focused on growth for my retirement. I want to build wealth for the long term.
+
+Advisor: How would you describe your risk tolerance? Are you conservative, moderate, or aggressive?
+
+Client: I'd say I'm moderate. I don't want to lose everything, but I'm willing to take some risk for better returns.
+
+Advisor: Do you have any previous investment experience?
+
+Client: Yes, I've been investing in my 401k and some index funds for about 10 years now.
+
+Advisor: What's your investment time horizon? When do you plan to retire?
+
+Client: I'm hoping to retire in about 25 years, so around age 62.
+
+Advisor: Do you have any specific liquidity needs or large expenses coming up?
+
+Client: We might need some money for our kids' college in about 10-15 years, but other than that, no major expenses.
+
+Advisor: Excellent. Is there anything else about your financial situation that you think would be relevant for our planning?
+
+Client: I think we covered the main points. I'm just looking for help to make sure I'm on track for a comfortable retirement.
+
+Advisor: Perfect. I'll review all this information and prepare a recommendation for our next meeting. Thank you for your time today, Michael.
+
+Client: Thank you, Sarah. I look forward to hearing your recommendations.
